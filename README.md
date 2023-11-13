@@ -38,7 +38,7 @@ To get started with Kheti, follow these steps:
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/Rishabh-Tripathi1/Smart-Farming.git
+   git clone https://github.com/Rishabh-Tripathi1/Kheti-Smart-Farming.git
    ```
 
 2. Set up the required dependencies by following the instructions in the [installation guide](docs/installation.md).
